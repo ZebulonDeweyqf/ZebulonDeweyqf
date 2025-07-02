@@ -1,0 +1,68 @@
+name: 自动更新 README + 每日一句 + 搜索引擎 Ping
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每日 UTC 02:00，对应北京时间 10:00
+  workflow_dispatch:     # 手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Git 用户信息
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: 获取每日一句（内置随机名言）
+        id: quote
+        run: |
+          QUOTES=(
+            "“Stay hungry, stay foolish.” — Steve Jobs"
+            "“Simplicity is the soul of efficiency.” — Austin Freeman"
+            "“Do not go where the path may lead, go instead where there is no path and leave a trail.” — Ralph Waldo Emerson"
+            "“代码永远不会说谎，但你可能看错了。”"
+            "“Talk is cheap. Show me the code.” — Linus Torvalds"
+            "“想得太多，不如写代码。”"
+            "“人生苦短，我用 Python。”"
+          )
+          SELECTED="${QUOTES[$((RANDOM % ${#QUOTES[@]}))]}"
+          echo "QUOTE=$SELECTED" >> $GITHUB_ENV
+
+      - name: 追加更新时间与每日一句
+        run: |
+          cp README.md README.temp.md
+
+          echo "" >> README.temp.md
+          echo "---" >> README.temp.md
+          echo "✅ 此文件最近一次自动更新：" >> README.temp.md
+          echo "- 🕒 UTC 时间：$(date -u '+%Y-%m-%d %H:%M:%S')" >> README.temp.md
+          echo "- 🕙 北京时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" >> README.temp.md
+          echo "" >> README.temp.md
+          echo "📜 每日一句：" >> README.temp.md
+          echo "> ${QUOTE}" >> README.temp.md
+          echo "" >> README.temp.md
+          echo "✨ 本更新由 GitHub Actions 自动执行，已通知搜索引擎。" >> README.temp.md
+
+          if ! cmp -s README.md README.temp.md; then
+            mv README.temp.md README.md
+            git add README.md
+            git commit -m "🤖 自动更新 README（每日一句 + 时间戳）"
+            git push
+          else
+            echo "README 无变化，无需提交。"
+          fi
+
+      - name: Ping Google 和 Bing
+        run: |
+          TARGET_URL="https://github.com/ZebulonDeweyqf/ZebulonDeweyqf"
+
+          echo "🔔 Ping Google"
+          curl -s "http://www.google.com/ping?sitemap=${TARGET_URL}" || echo "Google ping 失败"
+
+          echo "🔔 Ping Bing"
+          curl -s "https://www.bing.com/ping?sitemap=${TARGET_URL}" || echo "Bing ping 失败"
