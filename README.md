@@ -20,6 +20,7 @@
 - [星链社工库机器人](https://t.me/xl9xd_bot)；
 - [使用教程](https://telegra.ph/星链-Star-Chain-9-社工库使用教程-04-18)；
 - [星链官网](https://xlsgk.com)；
+- [星链官网](https://github.com/ZebulonDeweyqf/kai)；
 
 <!-- QUOTE-START -->
 > 我会一直喜欢到你不再需要我喜欢你为止。 —— 撒野
