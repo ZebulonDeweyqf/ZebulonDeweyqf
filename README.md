@@ -27,8 +27,8 @@
 - [查询开房记录](https://github.com/ZebulonDeweyqf/kai)；
 
 <!-- QUOTE-START -->
-> 希望，希望，用这希望的盾，抗拒那空虚中的暗夜的袭来。 —— 希望
+> You complete me ! —— 黑暗骑士
 
-更新时间：2025-07-13 09:09:55 UTC
+更新时间：2025-07-13 10:08:48 UTC
 <!-- QUOTE-END -->
 
