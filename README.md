@@ -27,7 +27,7 @@
 - [使用教程](https://telegra.ph/星链-Star-Chain-9-社工库使用教程-04-18)；
 - [星链官网](https://xlsgk.com)；
 - [星链备用官网](https://xlsgk.org)；
-- [查询开房记录](https://github.com/ZebulonDeweyqf/kai)；
+- [长沙私家侦探社](https://sites.google.com/view/xlsgkcom)；
 
 <!-- QUOTE-START -->
 > 没有BUG的代码是不完美的！ —— Sodium_Sulfate
