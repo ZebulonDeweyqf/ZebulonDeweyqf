@@ -23,17 +23,24 @@
 # 长沙私家侦探社
 高效诚信：诚信、守信、及时专业、保密、！专业为你提供结果尽我能力来帮助排忧解难部信誉第一、客户为本、诚信服务 尽最大的，为您解决普遍疑难调查取证工作！专业婚外情调查取证、商务调查、外遇出轨调查、寻人捉奸高手、大量成功案例，欢迎咨询【查询网：xlsgk.com】《TG:@xl9kf_bot》是调查适切、行动迅速、周末取巧、收费合理、服务主体、精求精的长沙私家侦探社。由长期用大量调查取证经验的团队调查提供服务。不愿意的时候，逃跑也没有关系！
 
+## 社工库
+
+支持查询手机机主、身份户籍、快递订单、绑定信息、贷款记录、车主信息、学籍信息、企业法人、保险记录。通过签到、分享可以免费使用。
+
+
+* 社工库：<a href="https://t.me/xl9xd_bot)" target="_blank">星链社工库</a>；
+* 教程：<a href="https://telegra.ph/星链-Star-Chain-9-社工库使用教程-04-18" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 ### 🔍 参考文章：
 
 - [星链社工库频道](https://t.me/xlsgk9)；
-- [星链社工库机器人](https://t.me/xl9xd_bot)；
-- [使用教程](https://telegra.ph/星链-Star-Chain-9-社工库使用教程-04-18)；
 - [星链官网](https://xlsgk.com)；
 - [星链备用官网](https://xlsgk.org)；
-- [长沙私家侦探社](https://sites.google.com/view/xlsgkcom)；
-- [查询开房记录](https://github.com/ssbbuu)；
-- [查询开房记录备用](https://github.com/ssbbuu/ssbbuu)；
-- [查询通话记录](https://github.com/ssbbuu/cxth)；
+* <a href="https://sites.google.com/view/xlsgkcom" target="_blank" >长沙私家侦探社</a>
+* <a href="https://github.com/ssbbuu" target="_blank" >最新Telegram社工库整理</a>
+* <a href="[https://github.com/ssbbuu](https://github.com/ssbbuu/ssbbuu)" target="_blank" >查询开房记录</a>
+* <a href="https://github.com/ssbbuu/cxth" target="_blank">查询通话记录</a>
+* <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
 > 嗯呐......软绵绵的人偶，来治愈你们的哟。 —— 来自深渊
