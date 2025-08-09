@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 嗯呐......软绵绵的人偶，来治愈你们的哟。 —— 来自深渊
+> 往事真的不堪回首吗？ —— Ajiang's Blog
 
-更新时间：2025-08-08 08:16:17 UTC
+更新时间：2025-08-09 08:14:03 UTC
 <!-- QUOTE-END -->
 
