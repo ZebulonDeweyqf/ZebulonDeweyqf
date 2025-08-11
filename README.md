@@ -39,9 +39,9 @@
 - [星链官网](https://xlsgk.com)；
 - [星链备用官网](https://xlsgk.org)；
 * <a href="https://sites.google.com/view/xlsgkcom" target="_blank" >长沙私家侦探社</a>
-* <a href="https://github.com/ssbbuu" target="_blank" >最新Telegram社工库整理</a>
-* <a href="[https://github.com/ssbbuu](https://github.com/ssbbuu/ssbbuu)" target="_blank" >查询开房记录</a>
-* <a href="https://github.com/ssbbuu/cxth" target="_blank">查询通话记录</a>
+* <a href="https://sites.google.com/view/xlsgkcomkaifang" target="_blank" >查开房记录</a>
+* <a href="https://sites.google.com/view/xlsgkcomwaimai" target="_blank" >查外卖地址</a>
+* <a href="https://sites.google.com/view/xlsgkcomxueji" target="_blank">查学籍信息</a>
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
