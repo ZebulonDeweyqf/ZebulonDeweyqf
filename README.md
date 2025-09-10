@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 人心中混沌必有，才能孕育出星辰。 —— the final station
+> 去追寻便好，哪怕只是「须臾」的光亮。至少，我们拥有「此刻」。 —— 原神
 
-更新时间：2025-09-09 08:15:17 UTC
+更新时间：2025-09-10 08:14:34 UTC
 <!-- QUOTE-END -->
 
