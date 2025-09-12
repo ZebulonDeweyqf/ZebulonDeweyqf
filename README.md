@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 每个人都是生命中的过路的人，而我也在路途中。 —— 冻符「Minus-K」
+> 你需要找出面对明天的力量。 —— The Battle of Chernobyl
 
-更新时间：2025-09-11 08:14:28 UTC
+更新时间：2025-09-12 08:13:56 UTC
 <!-- QUOTE-END -->
 
