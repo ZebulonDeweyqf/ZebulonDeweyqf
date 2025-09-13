@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 你需要找出面对明天的力量。 —— The Battle of Chernobyl
+> 现在的我，未来的我，一起去啊，更远的地方！ —— 伪装学渣
 
-更新时间：2025-09-12 08:13:56 UTC
+更新时间：2025-09-13 08:11:54 UTC
 <!-- QUOTE-END -->
 
