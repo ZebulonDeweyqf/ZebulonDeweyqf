@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 你这个年纪是站在太阳底下都会发光的年纪。 —— 鱼
+> 今天你要是不做，你明天还是得做。 —— MengCheng1015
 
-更新时间：2025-09-15 08:15:03 UTC
+更新时间：2025-09-16 08:15:01 UTC
 <!-- QUOTE-END -->
 
