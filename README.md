@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 我想要说的，前人们都说过了。我想要做的，有钱人都做过了。 —— 烂泥
+> 当遇到你时，大脑连上CSGO都会掉帧。 —— Florence
 
-更新时间：2025-10-20 08:15:39 UTC
+更新时间：2025-10-21 08:16:49 UTC
 <!-- QUOTE-END -->
 
