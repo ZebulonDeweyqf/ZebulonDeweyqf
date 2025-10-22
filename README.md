@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 当遇到你时，大脑连上CSGO都会掉帧。 —— Florence
+> 离离原上草，一岁一枯荣。 —— 草 / 赋得古原草送别
 
-更新时间：2025-10-21 08:16:49 UTC
+更新时间：2025-10-22 08:16:49 UTC
 <!-- QUOTE-END -->
 
