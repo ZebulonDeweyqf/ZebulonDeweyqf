@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 我会好好的生活，不为别的，就为这些年我亏欠自己的。 —— 霸气句子
+> 你充满了决心。 —— UNDERTALE
 
-更新时间：2025-12-13 08:14:18 UTC
+更新时间：2025-12-14 08:14:29 UTC
 <!-- QUOTE-END -->
 
