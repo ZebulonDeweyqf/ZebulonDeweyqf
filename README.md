@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 你是否会等待着我？我会变得更加完美！ —— Aqours
+> 我和你，可以做朋友吗？ —— 声の形
 
-更新时间：2026-01-16 08:17:29 UTC
+更新时间：2026-01-17 08:14:50 UTC
 <!-- QUOTE-END -->
 
