@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> I like you, but just like you. —— 网络
+> 如此生活30年，直到大厦崩塌。 —— 杀死那个石家庄人
 
-更新时间：2026-03-29 08:28:46 UTC
+更新时间：2026-03-30 09:02:24 UTC
 <!-- QUOTE-END -->
 
