@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> Now,we are one！！ —— 阿尔萨斯&巫妖王耐奥祖
+> あなたは敵だけど悪くない。 —— 火影忍者
 
-更新时间：2026-04-03 08:41:19 UTC
+更新时间：2026-04-04 08:28:58 UTC
 <!-- QUOTE-END -->
 
