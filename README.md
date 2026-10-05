@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 平生不下泪，于此泣无穷。 —— 江夏别宋之悌
+> 为错误停驻是件可悲的事。 —— LastFairy
 
-更新时间：2026-10-04 13:32:55 UTC
+更新时间：2026-10-05 16:33:55 UTC
 <!-- QUOTE-END -->
 
