@@ -45,8 +45,8 @@
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
 <!-- QUOTE-START -->
-> 十年信奥一场空，不开long long见祖宗。 —— 竞赛名言
+> 永远不要熄灭心中的火，哪怕别人只看见烟。 —— 网易云
 
-更新时间：2026-11-10 15:55:09 UTC
+更新时间：2026-11-11 15:44:32 UTC
 <!-- QUOTE-END -->
 
